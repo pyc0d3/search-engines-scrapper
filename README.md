@@ -1,5 +1,5 @@
 # search-engines-scrapper
-Finds some urls from request to google or another search engine 
+Finds some urls from request to google or another search engine and opens with your browser
 ### HOW TO USE:
  open cmd and type
  
